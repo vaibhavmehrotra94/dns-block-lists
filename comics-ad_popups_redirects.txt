@@ -14,10 +14,8 @@
 ||4dex.io^
 ||usrpubtrk.com^
 ||yougetwhatyoupayfor.net^
-||fontawesome.com^
 ||googletagmanager.com^
 ||pubfuture-ad.com^
-||googleapis.com^
 ||jsdelivr.net^
 ||aqle3.com^
 ||boxypluckunrelated.com^
@@ -35,9 +33,7 @@
 ||chagnougroalry.net^
 ||sootoarathus.net^
 ||weiledsteverm.org^
-||facebook.com^
 ||accounts.google.com^
-||youtube.com^
 ||d3jzhqnvnvdy34.cloudfront.net^
 ||cdnpf.com^
 ||pncloudfl.com^
