@@ -116,3 +116,5 @@
 ||prertbdir.com^
 ||colossusssp.com^
 ||adkernel.com^
+||bkcdn.net^
+||dcbbwymp1bhlf.cloudfront.net^
