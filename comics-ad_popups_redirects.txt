@@ -118,3 +118,4 @@
 ||adkernel.com^
 ||bkcdn.net^
 ||dcbbwymp1bhlf.cloudfront.net^
+||dobbymuggily.com^
